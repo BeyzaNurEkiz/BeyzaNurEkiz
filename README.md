@@ -24,7 +24,7 @@
   </a>
 </p>
 
-## My Skills
+## 🚀 My Skills:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
